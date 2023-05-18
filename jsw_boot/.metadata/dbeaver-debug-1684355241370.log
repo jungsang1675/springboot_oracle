@@ -1,0 +1,118 @@
+2023-05-18 05:00:07.977 - DBeaver 23.0.4.202305071722 is starting
+2023-05-18 05:00:07.979 - OS: Windows 10 10.0 (amd64)
+2023-05-18 05:00:07.979 - Java version: 17.0.6 by Eclipse Adoptium (64bit)
+2023-05-18 05:00:07.979 - Install path: 'C:\resource\dbeaver-ce-23.0.4-win32.win32.x86_64\dbeaver'
+2023-05-18 05:00:07.979 - Instance path: 'file:/C:/jsw_boot/'
+2023-05-18 05:00:07.980 - Memory available 64Mb/1024Mb
+2023-05-18 05:00:07.998 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.20.100.v20230220-1021]
+2023-05-18 05:00:08.177 - Initializing DBeaver 23.0.4
+2023-05-18 05:00:08.179 - Host plugin: org.jkiss.dbeaver.ui.app.standalone 23.0.4.202305071722
+2023-05-18 05:00:08.179 - Initialize desktop platform...
+2023-05-18 05:00:08.408 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.9.500.v20220817-1539]
+> Start Core Resource Management [org.eclipse.core.resources 3.18.200.v20230209-0754]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.105.202305071722]
+> Start 팀 지원 핵심 [org.eclipse.team.core 3.9.700.v20221201-0946]
+2023-05-18 05:00:08.617 - 
+2023-05-18 05:00:08.618 - 	Refreshing workspace.
+2023-05-18 05:00:08.623 - Refreshing workspace contents
+2023-05-18 05:00:08.846 - Initialize base platform...
+> Start Expression Language [org.eclipse.core.expressions 3.8.200.v20220613-1047]
+2023-05-18 05:00:08.885 - Platform initialized (706ms)
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.105.202305071722]
+2023-05-18 05:00:08.899 - Starting RMI server at 30000
+2023-05-18 05:00:08.976 - Run workbench
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.120.202305071722]
+> Start Eclipse e4 작업영역 SWT [org.eclipse.e4.ui.workbench.swt 0.16.800.v20230220-0932]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.3.400.v20220915-1347]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.5.200.v20230220-0932]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.3.700.v20230214-1401]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.18.0.v20230211-1150]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.13.300.v20230220-0932]
+> Start Eclipse e4 작업영역 기능 추가 [org.eclipse.e4.ui.workbench.addons.swt 1.4.600.v20230220-0932]
+> Start Eclipse e4 작업영역 SWT 렌더러 [org.eclipse.e4.ui.workbench.renderers.swt 0.15.800.v20230214-1401]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.13.300.v20230220-0932]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.17.200.v20220613-1008]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.14.800.v20230220-0932]
+> Start Java Native Access [com.sun.jna 5.12.1.v20221103-2317]
+Warning: NLS unused message: BlockedJobsDialog_UserInterfaceTreeElement in: org.eclipse.ui.internal.progress.messages
+2023-05-18 05:00:11.431 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.95.202305071722]
+2023-05-18 05:00:11.693 - Total database drivers: 102 (102)
+> Start 도움말 시스템 코어 [org.eclipse.help 3.9.100.v20210721-0601]
+2023-05-18 05:00:11.888 - Create actions
+2023-05-18 05:00:11.906 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2023-05-18 05:00:11.906 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2023-05-18 05:00:11.907 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2023-05-18 05:00:13.513 - Initialize workbench window
+2023-05-18 05:00:13.518 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.105.202305071722]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.1000.v20220801-1135]
+> Start 인터넷 연결 관리 사용자 인터페이스 [org.eclipse.ui.net 1.4.100.v20220812-1406]
+> Start Internet Connection Management [org.eclipse.core.net 1.4.0.v20220813-1037]
+> Start Draw2d [org.eclipse.draw2dl 3.12.100.20230428131615]
+> Start GEF3 GEF (MVC) [org.eclipse.gef3 3.12.100.20230428131615]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.65.202305071722]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.65.202305071722]
+Warning: NLS unused message: actions_navigator__objects in: org.jkiss.dbeaver.ui.editors.sql.internal.SQLEditorMessages
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.105.202305071722]
+> Start 기본 문서 편집기 [org.eclipse.ui.editors 3.15.0.v20221201-1935]
+> Start 텍스트 편집기 프레임워크 [org.eclipse.ui.workbench.texteditor 3.16.700.v20230210-0941]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.142.202305071722]
+> Start DBeaver Tip of the day [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.111.202305071722]
+2023-05-18 05:00:17.081 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver UI Editors - Connections [org.jkiss.dbeaver.ui.editors.connection 1.0.96.202305071722]
+> Start DBeaver Tasks View [org.jkiss.dbeaver.tasks.ui.view 1.0.54.202305071722]
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.81.202305071722]
+> Start 핵심 비교 지원 [org.eclipse.compare.core 3.7.100.v20220812-1406]
+> Start 콘솔 [org.eclipse.ui.console 3.11.400.v20221012-0524]
+Warning: NLS unused message: InputStreamMonitor_label in: org.eclipse.debug.internal.core.DebugCoreMessages
+Warning: NLS unused message: OutputStreamMonitor_label in: org.eclipse.debug.internal.core.DebugCoreMessages
+> Start 디버그 핵심 [org.eclipse.debug.core 3.20.100.v20230124-1239]
+2023-05-18 05:06:27.069 - Delete empty SQL script '\mybatis\Scripts\Script.sql'
+2023-05-18 05:06:27.144 - Resource '/mybatis/Scripts/Script.sql' does not exist.
+org.eclipse.core.internal.resources.ResourceException(/mybatis/Scripts/Script.sql)[368]: java.lang.Exception: Resource '/mybatis/Scripts/Script.sql' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:204)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:210)
+	at org.eclipse.core.internal.resources.Resource.getPersistentProperty(Resource.java:1135)
+	at org.jkiss.dbeaver.ui.editors.sql.terminal.SQLTerminalEditorAddIn.getInitialConsoleViewEnabled(SQLTerminalEditorAddIn.java:221)
+	at org.jkiss.dbeaver.ui.editors.sql.terminal.SQLTerminalEditorAddIn.isTerminalViewEnabled(SQLTerminalEditorAddIn.java:210)
+	at org.jkiss.dbeaver.ui.editors.sql.terminal.SQLTerminalEditorAddIn$2.runWithResult(SQLTerminalEditorAddIn.java:101)
+	at org.jkiss.dbeaver.ui.editors.sql.terminal.SQLTerminalEditorAddIn$2.runWithResult(SQLTerminalEditorAddIn.java:1)
+	at org.jkiss.dbeaver.model.runtime.RunnableWithResult.run(RunnableWithResult.java:34)
+	at org.eclipse.ui.internal.PendingSyncExec.run(PendingSyncExec.java:68)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:172)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4029)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:643)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:550)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:303)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.83.202305071722]
+2023-05-18 05:19:01.208 - DBeaver is stopping
+2023-05-18 05:19:01.279 - Stop RMI server
+2023-05-18 05:19:01.320 - RMI controller has been stopped
+2023-05-18 05:19:01.320 - DBeaver shutdown completed

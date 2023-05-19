@@ -4,6 +4,9 @@ import com.example.ex01.domain.ProductVO;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
+import javax.swing.plaf.PanelUI;
+import java.util.List;
+
 @Mapper
 public interface ProductMapper {
     // 상품추가
@@ -12,7 +15,9 @@ public interface ProductMapper {
     @Select("SELECT PRODUCT_ID, PRODUCT_NAME, PRODUCT_STOCK, PRODUCT_PRICE, REGISTER_DATE, UPDATE_DATE FROM TBL_PRODUCT WHERE PRODUCT_ID = #{productId}")
     public ProductVO select(long productId);
     // 상품 수정
+    public void update(ProductVO productVO);
     // 상품 삭제
+    public void delete(long productId);
     // 상품 전체 조회
-
+    public List<ProductVO> selectAll();
 }
